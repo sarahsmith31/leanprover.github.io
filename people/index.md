@@ -14,14 +14,13 @@ Lean 4 is being developed by:
 
 - [Leo de Moura](http://leodemoura.github.io) (Microsoft Research)
 - [Sebastian Ullrich](https://kha.github.io/) (Karlsruhe Institute of Technology)
-- [Dany Fabian](https://www.microsoft.com/en-us/research/people/danfab) (Microsoft Research)
+- [Gabriel Ebner](https://www.microsoft.com/en-us/research/people/gabrielebner/) (Microsoft Research)
 - [Sarah Smith](https://www.microsoft.com/en-us/research/people/smithsarah) (Microsoft Research)
 
 
 Past members:
-
+- [Dany Fabian](https://www.microsoft.com/en-us/research/people/danfab) (Microsoft Research)
 - [Daniel Selsam](https://dselsam.github.io) (Microsoft Research)
-- [Gabriel Ebner](https://gebner.org/) (Vienna University of Technology)
 - [Jared Roesch](http://jroesch.github.io/) (University of Washington)
 - [Robert Lewis](https://www.andrew.cmu.edu/user/rlewis1/) (Carnegie Mellon University)
 - [Floris van Doorn](http://www.contrib.andrew.cmu.edu/~fpv/) (Carnegie Mellon University)
